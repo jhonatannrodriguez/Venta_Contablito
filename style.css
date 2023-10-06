@@ -1,0 +1,43 @@
+ /* aca modifica la parte de index , el fondo de los botones y el hoover */
+.btn-custom{
+    background-color: #137851; 
+}
+
+.btn-custom:hover{
+    background-color: #0FB876;
+    color: black;
+}
+
+/* esta seccion es de el BG del form , sus inputs y los botones */
+.bg-costum-form{
+    background-color: #1E1E1E;
+}
+
+.inputBorder{
+    border-color:  #137851;
+}
+
+.inputBorder:focus{
+    border-width: 3px;
+    border-color: #0FB876;
+    box-shadow: none;
+}
+
+.btn-form1{
+    background-color: #137851;
+    margin-bottom: 15px;
+}
+
+.btn-form1:hover{
+    background-color: #0FB876;
+    color: black;
+}
+
+.btn-form2 {
+    background-color: rgb(124, 12, 12);
+    margin-bottom: 15px;
+}
+
+.btn-form2:hover{
+    background-color: rgb(207, 10, 10);
+}
